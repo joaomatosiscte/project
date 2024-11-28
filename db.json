@@ -1,0 +1,509 @@
+{
+  "houses": [
+    {
+        "id": "1",
+        "title": "10th Floor",
+        "address": "6 Rutledge Crossing",
+        "price": 2905,
+        "beds": 3,
+        "baths": 2,
+        "parking": false,
+        "description": "Contusion of right thumb with damage to nail, init encntr",
+        "image": "1.jpg",
+        "type": "Bungalow",
+        "amenities": [],
+        "review": 2
+    },
+    {
+        "id": "2",
+        "title": "PO Box 90718",
+        "address": "0319 Vermont Road",
+        "price": 2303,
+        "beds": 2,
+        "baths": 2,
+        "parking": true,
+        "description": "Tributary (branch) retinal vein occlusion, bilateral",
+        "image": "2.jpg",
+        "type": "Cottage",
+        "amenities": [],
+        "review": 3
+    },
+    {
+        "id": "3",
+        "title": "PO Box 84717",
+        "address": "27 Crowley Circle",
+        "price": 3979,
+        "beds": 4,
+        "baths": 2,
+        "parking": true,
+        "description": "Smith's fracture",
+        "image": "3.jpg",
+        "type": "Studio",
+        "amenities": [
+            "TV",
+            "Microwave",
+            "Balcony"
+        ],
+        "review": 4
+    },
+    {
+        "id": "4",
+        "title": "Apt 586",
+        "address": "12 Tomscot Park",
+        "price": 2362,
+        "beds": 3,
+        "baths": 2,
+        "parking": true,
+        "description": "Encounter for general counseling and advice on contraception",
+        "image": "4.jpg",
+        "type": "Studio",
+        "amenities": [
+            "Hair dryer",
+            "Freezer",
+            "Microwave",
+            "Coffee machine"
+        ],
+        "review": 5
+    },
+    {
+        "id": "5",
+        "title": "Suite 99",
+        "address": "0 Dottie Road",
+        "price": 1123,
+        "beds": 3,
+        "baths": 2,
+        "parking": true,
+        "description": "Athscl nonbiological bypass of the extremities w rest pain",
+        "image": "5.jpg",
+        "type": "Cottage",
+        "amenities": [
+            "Coffee machine",
+            "Air conditioning",
+            "Toaster",
+            "Wifi"
+        ],
+        "review": 3
+    },
+    {
+        "id": "6",
+        "title": "19th Floor",
+        "address": "4 Coleman Lane",
+        "price": 2073,
+        "beds": 3,
+        "baths": 3,
+        "parking": false,
+        "description": "Unspecified malignant neoplasm of skin of lip",
+        "image": "6.jpg",
+        "type": "Studio",
+        "amenities": [
+            "Coffee machine",
+            "Hair dryer",
+            "Balcony"
+        ],
+        "review": 4
+    },
+    {
+        "id": "7",
+        "title": "Apt 515",
+        "address": "989 Grasskamp Center",
+        "price": 4503,
+        "beds": 4,
+        "baths": 2,
+        "parking": false,
+        "description": "Oth and unsp comp following incomplete spontaneous abortion",
+        "image": "7.jpg",
+        "type": "Apartment",
+        "amenities": [],
+        "review": 1
+    },
+    {
+        "id": "8",
+        "title": "PO Box 98077",
+        "address": "84 Bowman Park",
+        "price": 3669,
+        "beds": 3,
+        "baths": 3,
+        "parking": true,
+        "description": "Spacecraft fire injuring occupant",
+        "image": "8.jpg",
+        "type": "Apartment",
+        "amenities": [
+            "TV"
+        ],
+        "review": 1
+    },
+    {
+        "id": "9",
+        "title": "PO Box 59042",
+        "address": "127 Jay Terrace",
+        "price": 4688,
+        "beds": 1,
+        "baths": 2,
+        "parking": true,
+        "description": "Disp fx of dist phalanx of r less toe(s), 7thG",
+        "image": "9.jpg",
+        "type": "Apartment",
+        "amenities": [
+            "Freezer",
+            "Microwave"
+        ],
+        "review": 1
+    },
+    {
+        "id": "10",
+        "title": "11th Floor",
+        "address": "92 Texas Court",
+        "price": 3065,
+        "beds": 4,
+        "baths": 2,
+        "parking": false,
+        "description": "Injury of nerve root of thoracic spine, subsequent encounter",
+        "image": "10.jpg",
+        "type": "Cottage",
+        "amenities": [],
+        "review": 1
+    },
+    {
+        "id": "11",
+        "title": "Suite 80",
+        "address": "943 Rieder Circle",
+        "price": 2421,
+        "beds": 4,
+        "baths": 1,
+        "parking": true,
+        "description": "Superficial foreign body of left little finger, sequela",
+        "image": "11.jpg",
+        "type": "Villa",
+        "amenities": [],
+        "review": 2
+    },
+    {
+        "id": "12",
+        "title": "PO Box 19554",
+        "address": "184 Merry Point",
+        "price": 4833,
+        "beds": 1,
+        "baths": 1,
+        "parking": true,
+        "description": "Displacement of permanent sutures, sequela",
+        "image": "12.jpg",
+        "type": "Apartment",
+        "amenities": [
+            "Hair dryer",
+            "Toaster",
+            "Coffee machine"
+        ],
+        "review": 1
+    },
+    {
+        "id": "13",
+        "title": "Suite 61",
+        "address": "078 Mallard Street",
+        "price": 1375,
+        "beds": 3,
+        "baths": 3,
+        "parking": true,
+        "description": "Corrosion of second degree of unspecified thigh, subs encntr",
+        "image": "13.jpg",
+        "type": "Apartment",
+        "amenities": [],
+        "review": 4
+    },
+    {
+        "id": "14",
+        "title": "Room 1526",
+        "address": "2480 Moose Hill",
+        "price": 3444,
+        "beds": 3,
+        "baths": 1,
+        "parking": false,
+        "description": "Unsp comp of fb acc left in body following heart cath, init",
+        "image": "14.jpg",
+        "type": "Apartment",
+        "amenities": [
+            "Wifi",
+            "TV",
+            "Freezer"
+        ],
+        "review": 4
+    },
+    {
+        "id": "15",
+        "title": "PO Box 57509",
+        "address": "72613 Merrick Parkway",
+        "price": 3690,
+        "beds": 4,
+        "baths": 1,
+        "parking": true,
+        "description": "Unsp injury of musc/fasc/tend prt biceps, right arm, subs",
+        "image": "15.jpg",
+        "type": "Cottage",
+        "amenities": [
+            "Toaster",
+            "Air conditioning",
+            "Freezer"
+        ],
+        "review": 3
+    },
+    {
+        "id": "16",
+        "title": "Suite 66",
+        "address": "00722 Stone Corner Parkway",
+        "price": 4509,
+        "beds": 3,
+        "baths": 3,
+        "parking": true,
+        "description": "Hydroxyapatite deposition disease, left ankle and foot",
+        "image": "16.jpg",
+        "type": "Studio",
+        "amenities": [
+            "TV",
+            "Toaster",
+            "Freezer",
+            "Balcony"
+        ],
+        "review": 2
+    },
+    {
+        "id": "17",
+        "title": "Suite 64",
+        "address": "404 Alpine Plaza",
+        "price": 3697,
+        "beds": 3,
+        "baths": 1,
+        "parking": false,
+        "description": "Unspecified sprain of right foot",
+        "image": "17.jpg",
+        "type": "Cottage",
+        "amenities": [],
+        "review": 3
+    },
+    {
+        "id": "18",
+        "title": "PO Box 20149",
+        "address": "900 Atwood Circle",
+        "price": 2992,
+        "beds": 1,
+        "baths": 2,
+        "parking": true,
+        "description": "Uterovaginal prolapse, unspecified",
+        "image": "18.jpg",
+        "type": "Studio",
+        "amenities": [
+            "Coffee machine",
+            "Hair dryer",
+            "Freezer"
+        ],
+        "review": 1
+    },
+    {
+        "id": "19",
+        "title": "Room 802",
+        "address": "9 Comanche Court",
+        "price": 1245,
+        "beds": 3,
+        "baths": 2,
+        "parking": false,
+        "description": "Disp fx of lateral epicondyl of unsp humer, 7thD",
+        "image": "19.jpg",
+        "type": "Apartment",
+        "amenities": [
+            "TV",
+            "Freezer"
+        ],
+        "review": 4
+    },
+    {
+        "id": "20",
+        "title": "Room 1811",
+        "address": "2811 Twin Pines Circle",
+        "price": 1098,
+        "beds": 4,
+        "baths": 1,
+        "parking": true,
+        "description": "Acquired absence of limb",
+        "image": "20.jpg",
+        "type": "Cottage",
+        "amenities": [
+            "Toaster",
+            "Freezer",
+            "TV"
+        ],
+        "review": 3
+    },
+    {
+        "id": "21",
+        "title": "Apt 787",
+        "address": "88334 Reinke Pass",
+        "price": 1460,
+        "beds": 1,
+        "baths": 1,
+        "parking": true,
+        "description": "Other optic atrophy",
+        "image": "21.jpg",
+        "type": "Bungalow",
+        "amenities": [
+            "Toaster",
+            "Air conditioning"
+        ],
+        "review": 4
+    },
+    {
+        "id": "22",
+        "title": "20th Floor",
+        "address": "1 Toban Lane",
+        "price": 930,
+        "beds": 3,
+        "baths": 2,
+        "parking": true,
+        "description": "Oth physeal fx upper end of humerus, unsp arm, sequela",
+        "image": "22.jpg",
+        "type": "Studio",
+        "amenities": [
+            "Wifi",
+            "Balcony"
+        ],
+        "review": 4
+    },
+    {
+        "id": "23",
+        "title": "PO Box 9696",
+        "address": "390 Susan Court",
+        "price": 1040,
+        "beds": 2,
+        "baths": 1,
+        "parking": true,
+        "description": "Fall due to uncontrolled fire, not in bldg, sequela",
+        "image": "23.jpg",
+        "type": "Studio",
+        "amenities": [],
+        "review": 1
+    },
+    {
+        "id": "24",
+        "title": "Room 1826",
+        "address": "8 Rowland Park",
+        "price": 3904,
+        "beds": 1,
+        "baths": 3,
+        "parking": false,
+        "description": "Sltr-haris Type II physl fx low end l femr, 7thK",
+        "image": "24.jpg",
+        "type": "Villa",
+        "amenities": [
+            "Balcony",
+            "TV",
+            "Air conditioning"
+        ],
+        "review": 1
+    },
+    {
+        "id": "25",
+        "title": "PO Box 53818",
+        "address": "34 Bellgrove Lane",
+        "price": 4013,
+        "beds": 4,
+        "baths": 1,
+        "parking": true,
+        "description": "Crushing injury of vulva",
+        "image": "25.jpg",
+        "type": "Studio",
+        "amenities": [
+            "Freezer",
+            "TV"
+        ],
+        "review": 3
+    },
+    {
+        "id": "26",
+        "title": "PO Box 35726",
+        "address": "43 Warrior Lane",
+        "price": 3057,
+        "beds": 4,
+        "baths": 2,
+        "parking": false,
+        "description": "Occup of snowmobile injured in traffic accident, sequela",
+        "image": "26.jpg",
+        "type": "Villa",
+        "amenities": [
+            "TV",
+            "Microwave",
+            "Hair dryer"
+        ],
+        "review": 3
+    },
+    {
+        "id": "27",
+        "title": "PO Box 62507",
+        "address": "790 Eggendart Drive",
+        "price": 4534,
+        "beds": 3,
+        "baths": 2,
+        "parking": false,
+        "description": "Passenger of sp off-rd mv injured in traffic accident, init",
+        "image": "27.jpg",
+        "type": "Apartment",
+        "amenities": [
+            "Coffee machine"
+        ],
+        "review": 2
+    },
+    {
+        "id": "28",
+        "title": "10th Floor",
+        "address": "4839 Mallard Place",
+        "price": 4729,
+        "beds": 2,
+        "baths": 1,
+        "parking": true,
+        "description": "Corrosion of unspecified degree of right axilla, init encntr",
+        "image": "28.jpg",
+        "type": "Cottage",
+        "amenities": [
+            "Coffee machine",
+            "Hair dryer",
+            "TV",
+            "Toaster",
+            "Air conditioning"
+        ],
+        "review": 2
+    },
+    {
+        "id": "29",
+        "title": "PO Box 43118",
+        "address": "38142 Golf Way",
+        "price": 1592,
+        "beds": 3,
+        "baths": 1,
+        "parking": false,
+        "description": "Nondisp commnt fx shaft of unsp fibula, 7thE",
+        "image": "29.jpg",
+        "type": "Bungalow",
+        "amenities": [
+            "Coffee machine"
+        ],
+        "review": 1
+    },
+    {
+        "id": "30",
+        "title": "PO Box 32102",
+        "address": "327 Twin Pines Street",
+        "price": 4568,
+        "beds": 3,
+        "baths": 1,
+        "parking": false,
+        "description": "Nursemaid's elbow, unspecified elbow",
+        "image": "30.jpg",
+        "type": "Apartment",
+        "amenities": [
+            "Hair dryer",
+            "Balcony",
+            "TV",
+            "Coffee machine"
+        ],
+        "review": 2
+    }
+  ],
+  "favorites": [
+  ]
+}
